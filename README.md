@@ -1,7 +1,7 @@
-# bookstore-sql-analytics-project
+## bookstore-sql-analytics-project
 SQL practice project with real-world analytical questions, JOINs, subqueries, CTEs, and multi-table analysis using a bookstore dataset.
 <br><br>
-# About the Project
+### About the Project
 
 This project contains a complete set of intermediate and advanced SQL questions that I practiced to sharpen my analytical thinking and database problem-solving skills.
 It is designed for learners who want to move beyond basic SELECT queries and work with real analysis-style SQL challenges using multi-table data.
@@ -13,7 +13,7 @@ The goal is simple:
 
 I am sharing the entire question list so others can practice the same challenges.
 
-# 🗂️ Database Schema
+### 🗂️ Database Schema
 The project uses 3 connected tables:
 
 customers (customer_id, name, email, phone, city, country)
@@ -22,7 +22,7 @@ customers (customer_id, name, email, phone, city, country)
                |
                |-- books (book_id, title, author, genre, published_year, price, stock)
 
-# 🎯 What’s Included
+### 🎯 What’s Included
 
 This repository contains:
 File	Description
@@ -33,7 +33,7 @@ customers.csv	Customer dataset
 orders.csv	Orders dataset
 ERD / Schema image (optional)	Database relationship diagram
 
-# 🧠 Skills Practiced
+### 🧠 Skills Practiced
 This project includes SQL concepts such as:
 Multi-table JOINs
 Aggregations and group analysis
@@ -47,7 +47,7 @@ Case-based analytical questions
 
 These questions simulate the kind of tasks asked in real analytics roles.
 
-# 📝 Sample Question Types
+### 📝 Sample Question Types
 Some examples from the question list:
 Find the top-selling books and calculate total revenue
 Identify customers with the highest purchase frequency
@@ -57,7 +57,7 @@ Find monthly/weekly order trends
 Use CTEs to rank books by revenue
 Create customer segmentation based on spending
 
-# 🚀 How to Use This Project
+### 🚀 How to Use This Project
 
 Clone or download this repository
 Import the CSV files into your SQL database
@@ -67,7 +67,7 @@ Compare with my queries in sample_queries.sql
 Modify or extend the dataset to create more challenges
 This project is perfect for self-learning, portfolio work, or interview preparation.
 
-# 📊 Why This Project Matters
+### 📊 Why This Project Matters
 
 Hands-on SQL projects help build real problem-solving experience.
 Working on analytical questions like these is key to:
